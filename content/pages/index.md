@@ -283,7 +283,7 @@ sections:
     colors: colors-a
     title: 'A great feature, we’re proud of'
     text: |
-      \*\* hello world \*\*
+      \*\* hello world \*\* 
 
 
 
