@@ -285,7 +285,7 @@ sections:
     text: |
       **asdfa**
 
-      ****
+
 
       sdfgsd
     actions:
