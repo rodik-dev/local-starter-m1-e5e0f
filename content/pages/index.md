@@ -285,7 +285,6 @@ sections:
     text: |
       **bold first line**
 
-      ****
 
       asdf
     actions:
