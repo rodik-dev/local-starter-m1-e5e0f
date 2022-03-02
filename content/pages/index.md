@@ -282,12 +282,10 @@ sections:
   - elementId: ''
     colors: colors-a
     title: 'A great feature, we’re proud of'
-    text: >
-      **test first line**
+    text: |-
+      **bold first line** 
 
-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+      of experience
     actions:
       - type: Button
         label: Get Started
