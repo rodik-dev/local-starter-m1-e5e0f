@@ -283,10 +283,11 @@ sections:
     colors: colors-a
     title: 'A great feature, we’re proud of'
     text: |
-      **asdfa
-      **
+      \*\* hello world \*\*
 
-      sdfgsd
+
+
+      askdfh
     actions:
       - type: Button
         label: Get Started
