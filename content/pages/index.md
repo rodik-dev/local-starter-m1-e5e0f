@@ -283,8 +283,7 @@ sections:
     colors: colors-a
     title: 'A great feature, we’re proud of'
     text: |
-      **bold first line**
-
+      **bold fir** **st line**
 
       asdf
     actions:
