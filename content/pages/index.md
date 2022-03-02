@@ -283,9 +283,9 @@ sections:
     colors: colors-a
     title: 'A great feature, we’re proud of'
     text: |
-      **bold fir** **st line**
+      asdfa
 
-      asdf
+      sdfgsd
     actions:
       - type: Button
         label: Get Started
