@@ -283,9 +283,8 @@ sections:
     colors: colors-a
     title: 'A great feature, we’re proud of'
     text: |
-      **asdfa**
-
-
+      **asdfa
+      **
 
       sdfgsd
     actions:
