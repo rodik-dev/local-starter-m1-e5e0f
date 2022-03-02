@@ -283,7 +283,7 @@ sections:
     colors: colors-a
     title: 'A great feature, we’re proud of'
     text: >
-      ## test first line
+      **test first line**
 
 
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
