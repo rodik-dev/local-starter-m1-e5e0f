@@ -282,8 +282,10 @@ sections:
   - elementId: ''
     colors: colors-a
     title: 'A great feature, we’re proud of'
-    text: |-
-      **bold first line** 
+    text: |
+      **bold first line**
+
+
 
       of experience
     actions:
