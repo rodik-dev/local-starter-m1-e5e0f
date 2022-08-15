@@ -28,7 +28,7 @@
         "sourcebit-source-filesystem": "^0.2.0",
         "sourcebit-target-next": "^0.7.1",
         "tailwindcss": "^2.2.4",
-        "personal-nextjs-theme": "git+ssh://git@github.com:user_name/node_project.git"
+        "personal-nextjs-theme": "git+https://git@github.com:rodik-dev/staging-blog-tier-63f1c.git"
     },
     "devDependencies": {
         "@next/bundle-analyzer": "^11.1.2",
