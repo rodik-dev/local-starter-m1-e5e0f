@@ -13,9 +13,7 @@ pagesDir: content/pages
 presetSource:
   type: files
   presetDirs:
-    - .stackbit/presets
-    - node_modules/
-
+    - node_modules/personal-nextjs-theme/.stackbit/presets
 pageLayoutKey: layout
 objectTypeKey: type
 styleObjectModelName: ThemeStyle
